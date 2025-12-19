@@ -1,6 +1,6 @@
 # Recommendation System Project
 
-[![Streamlit App](https://img.shields.io/badge/Streamlit-Demo-blue)](https://share.streamlit.io/davidkennedyemmanuel-cyber/recommendation_system/main/app/app.py)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Demo-blue)](https://recommendationsystem-lpssphd3xm57awf9e9oqyp.streamlit.app/)
 
 ## Overview
 This is a **Recommendation System** built using Python, Pandas, NumPy, and Scikit-learn.  
